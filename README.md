@@ -12,7 +12,7 @@
 
 - Atualmente cursando o **3º ano (de 4)** no curso Técnico em **Desenvolvimento de Sistemas - IFSP**
 - Buscando crescimento constante na área de **TI**, explorando diferentes áreas
-- Apaixonado por **Java, Python, Godot, Power BI, JavaScript, HTML, CSS e C (básico)**
+- Já programei em **Java, Python, Godot, Power BI, JavaScript, HTML, CSS e C (básico)**
 - Meus projetos incluem um **site desenvolvido em Flask**, um **jogo em desenvolvimento na engine Godot**, e um **jogo de Blackjack em Java**
 - Fora da programação, sou criador de conteúdo, editor de vídeos e faço lives no meu canal do YouTube [CaVibezz](https://www.youtube.com/@CaVibezz)
 - Também gosto de praticar esportes e mexer com hardware e setups
