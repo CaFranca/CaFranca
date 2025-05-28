@@ -78,7 +78,7 @@
 ---
 
 <h3 align="center">⚡ Frase que me representa:</h3>
-<p align="center"><i>"Em constante evolução, sempre buscando equilíbrio entre criatividade, conhecimento e prática."</i></p>
+<p align="center"><i>"A verdadeira força não está em vencer, mas em se levantar todas as vezes que o mundo te derruba."</i></p>
 
 ---
 
